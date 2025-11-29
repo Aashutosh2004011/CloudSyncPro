@@ -98,7 +98,6 @@ landing-page/
 │   ├── layout.tsx                  # Root layout with metadata
 │   └── page.tsx                    # Main page (Server Component)
 ├── public/                         # Static assets
-├── DEPLOYMENT.md                   # Deployment instructions
 ├── README.md                       # Project documentation
 ├── package.json                    # Dependencies
 └── tsconfig.json                   # TypeScript config
